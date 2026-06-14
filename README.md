@@ -1,2 +1,2 @@
 # Grandstream-GWN
-Retrieve the GWN APs details using API
+Retrieve the Grandstream (GWN) Access Points details using API
