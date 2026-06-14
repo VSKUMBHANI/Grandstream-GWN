@@ -3,8 +3,8 @@ import requests
 import sys
 
 # Replace with your actual credentials
-client_id = '103408'
-client_secret = 'ev9nFH32UDYFJ7WvCTHnenNheSyi2bWy'
+client_id = '103497'
+client_secret = 'rb9nFH62UrYFJ7WBCTHnenNheSyi2rey'
 
 def get_token():
     url = "https://www.gwn.cloud/oauth/token"
